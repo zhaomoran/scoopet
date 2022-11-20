@@ -17,6 +17,12 @@
 		"url": "https://sourceforge.net/projects/orwelldevcpp/files/",
 		"regex": "Dev-Cpp ([\\d]+.[\\d]+)"
 	},
+    "shortcuts": [
+        [
+            "devcpp.exe",
+            "DevCpp"
+        ]
+    ],
 	"autoupdate": {
 		"architecture": {
 			"64bit": {
